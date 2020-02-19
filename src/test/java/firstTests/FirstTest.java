@@ -11,7 +11,7 @@ public class FirstTest {
 
     @Before
     public void start() {
-        System.setProperty("webdriver.chrome.driver", "/Users/liseykin/Drivers/chromedriver");
+        System.setProperty("webdriver.chrome.driver", "/Users/ifoxer/Drivers/chromedriver");
         driver = new ChromeDriver();
     }
 
