@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d0d526a5-f5b5-48cf-b0a5-ae3a38053bbf" name="Default Changelist" comment="" />
+    <list default="true" id="d0d526a5-f5b5-48cf-b0a5-ae3a38053bbf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/testSelenium.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/firstTests/SecondTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/firstTests/FirstTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/firstTests/FirstTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +19,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -38,12 +47,13 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="JUnit.FirstTest">
+  <component name="RunManager" selected="JUnit.SecondTest">
     <configuration name="FirstTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="testSelenium" />
       <extension name="coverage">
@@ -75,8 +85,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SecondTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testSelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="firstTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="firstTests" />
+      <option name="MAIN_CLASS_NAME" value="firstTests.SecondTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SecondTest" />
         <item itemvalue="JUnit.FirstTest" />
         <item itemvalue="JUnit.FirstTest.firstTest" />
       </list>
@@ -100,21 +126,25 @@
       <screen x="0" y="23" width="1920" height="975" />
     </state>
     <state x="548" y="183" key="#Project_Structure/0.23.1920.975@0.23.1920.975" timestamp="1581879103359" />
-    <state width="1878" height="165" key="GridCell.Tab.0.bottom" timestamp="1581885295014">
-      <screen x="0" y="23" width="1920" height="975" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1582115007518">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582115007518" />
     <state width="1878" height="165" key="GridCell.Tab.0.bottom/0.23.1920.975@0.23.1920.975" timestamp="1581885295014" />
-    <state width="1878" height="165" key="GridCell.Tab.0.center" timestamp="1581885295013">
-      <screen x="0" y="23" width="1920" height="975" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1582115007515">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1582115007515" />
     <state width="1878" height="165" key="GridCell.Tab.0.center/0.23.1920.975@0.23.1920.975" timestamp="1581885295013" />
-    <state width="1878" height="165" key="GridCell.Tab.0.left" timestamp="1581885295012">
-      <screen x="0" y="23" width="1920" height="975" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1582115007513">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1582115007513" />
     <state width="1878" height="165" key="GridCell.Tab.0.left/0.23.1920.975@0.23.1920.975" timestamp="1581885295012" />
-    <state width="1878" height="165" key="GridCell.Tab.0.right" timestamp="1581885295014">
-      <screen x="0" y="23" width="1920" height="975" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1582115007516">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1582115007516" />
     <state width="1878" height="165" key="GridCell.Tab.0.right/0.23.1920.975@0.23.1920.975" timestamp="1581885295014" />
     <state width="1878" height="324" key="GridCell.Tab.1.bottom" timestamp="1581880837704">
       <screen x="0" y="23" width="1920" height="975" />
@@ -136,9 +166,10 @@
       <screen x="0" y="23" width="1920" height="975" />
     </state>
     <state x="461" y="186" key="SettingsEditor/0.23.1920.975@0.23.1920.975" timestamp="1581886691512" />
-    <state x="653" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1581878436168">
-      <screen x="0" y="23" width="1920" height="975" />
+    <state x="490" y="295" key="com.intellij.ide.util.TipDialog" timestamp="1582114119964">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="490" y="295" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1582114119964" />
     <state x="653" y="343" key="com.intellij.ide.util.TipDialog/0.23.1920.975@0.23.1920.975" timestamp="1581878436168" />
   </component>
 </project>
