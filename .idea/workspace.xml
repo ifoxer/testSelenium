@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0d526a5-f5b5-48cf-b0a5-ae3a38053bbf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/firstTests/FireFoxTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/firstTests/SafariTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/firstTests/findeElements.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/firstTests/SafariTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/firstTests/SafariTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,53 +51,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="JUnit.SafariTest">
-    <configuration name="FireFoxTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="testSelenium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="firstTests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="firstTests" />
-      <option name="MAIN_CLASS_NAME" value="firstTests.FireFoxTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FirstTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="testSelenium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="firstTests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="firstTests" />
-      <option name="MAIN_CLASS_NAME" value="firstTests.FirstTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FirstTest.firstTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="testSelenium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="firstTests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="firstTests" />
-      <option name="MAIN_CLASS_NAME" value="firstTests.FirstTest" />
-      <option name="METHOD_NAME" value="firstTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.findeElements.Test">
     <configuration name="SafariTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="testSelenium" />
       <extension name="coverage">
@@ -109,6 +63,22 @@
       <option name="PACKAGE_NAME" value="firstTests" />
       <option name="MAIN_CLASS_NAME" value="firstTests.SafariTest" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SafariTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testSelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="firstTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="firstTests" />
+      <option name="MAIN_CLASS_NAME" value="firstTests.SafariTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -128,13 +98,44 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="findeElements" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testSelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="firstTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="firstTests" />
+      <option name="MAIN_CLASS_NAME" value="firstTests.findeElements" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="findeElements.Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testSelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="firstTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="firstTests" />
+      <option name="MAIN_CLASS_NAME" value="firstTests.findeElements" />
+      <option name="METHOD_NAME" value="Test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.SafariTest" />
-        <item itemvalue="JUnit.FireFoxTest" />
+        <item itemvalue="JUnit.findeElements.Test" />
+        <item itemvalue="JUnit.findeElements" />
         <item itemvalue="JUnit.SecondTest" />
-        <item itemvalue="JUnit.FirstTest" />
-        <item itemvalue="JUnit.FirstTest.firstTest" />
+        <item itemvalue="JUnit.SafariTest.test1" />
+        <item itemvalue="JUnit.SafariTest" />
       </list>
     </recent_temporary>
   </component>
@@ -163,67 +164,79 @@
       <option name="project" value="LOCAL" />
       <updated>1582140055373</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Добавлены классы FireFoxTest и SafariTest с запуском сценариев в браузерах  Safari и FireFox">
+      <created>1582232767829</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1582232767829</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="добавлен класс SecondTest" />
     <MESSAGE value="В классе SecondTest написан сценарий логина в понель администрирования" />
-    <option name="LAST_COMMIT_MESSAGE" value="В классе SecondTest написан сценарий логина в понель администрирования" />
+    <MESSAGE value="Добавлены классы FireFoxTest и SafariTest с запуском сценариев в браузерах  Safari и FireFox" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавлены классы FireFoxTest и SafariTest с запуском сценариев в браузерах  Safari и FireFox" />
   </component>
   <component name="WindowStateProjectService">
     <state x="548" y="183" key="#Project_Structure" timestamp="1581879103359">
       <screen x="0" y="23" width="1920" height="975" />
     </state>
     <state x="548" y="183" key="#Project_Structure/0.23.1920.975@0.23.1920.975" timestamp="1581879103359" />
-    <state x="365" y="52" key="CommitChangelistDialog2" timestamp="1582140054980">
+    <state x="365" y="52" key="CommitChangelistDialog2" timestamp="1582232767579">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="365" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1582140054980" />
-    <state width="1398" height="337" key="GridCell.Tab.0.bottom" timestamp="1582232558280">
+    <state x="365" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1582232767579" />
+    <state width="1398" height="224" key="GridCell.Tab.0.bottom" timestamp="1583178245279">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="337" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582232558280" />
+    <state width="1398" height="224" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583178245279" />
     <state width="1878" height="165" key="GridCell.Tab.0.bottom/0.23.1920.975@0.23.1920.975" timestamp="1581885295014" />
-    <state width="1398" height="337" key="GridCell.Tab.0.center" timestamp="1582232558278">
+    <state width="1398" height="224" key="GridCell.Tab.0.center" timestamp="1583178245278">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="337" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1582232558278" />
+    <state width="1398" height="224" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1583178245278" />
     <state width="1878" height="165" key="GridCell.Tab.0.center/0.23.1920.975@0.23.1920.975" timestamp="1581885295013" />
-    <state width="1398" height="337" key="GridCell.Tab.0.left" timestamp="1582232558277">
+    <state width="1398" height="224" key="GridCell.Tab.0.left" timestamp="1583178245277">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="337" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1582232558277" />
+    <state width="1398" height="224" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1583178245277" />
     <state width="1878" height="165" key="GridCell.Tab.0.left/0.23.1920.975@0.23.1920.975" timestamp="1581885295012" />
-    <state width="1398" height="337" key="GridCell.Tab.0.right" timestamp="1582232558278">
+    <state width="1398" height="224" key="GridCell.Tab.0.right" timestamp="1583178245279">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="337" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1582232558278" />
+    <state width="1398" height="224" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1583178245279" />
     <state width="1878" height="165" key="GridCell.Tab.0.right/0.23.1920.975@0.23.1920.975" timestamp="1581885295014" />
-    <state width="1878" height="324" key="GridCell.Tab.1.bottom" timestamp="1581880837704">
-      <screen x="0" y="23" width="1920" height="975" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1582741303995">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582741303995" />
     <state width="1878" height="324" key="GridCell.Tab.1.bottom/0.23.1920.975@0.23.1920.975" timestamp="1581880837704" />
-    <state width="1878" height="324" key="GridCell.Tab.1.center" timestamp="1581880837703">
-      <screen x="0" y="23" width="1920" height="975" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1582741303992">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1582741303992" />
     <state width="1878" height="324" key="GridCell.Tab.1.center/0.23.1920.975@0.23.1920.975" timestamp="1581880837703" />
-    <state width="1878" height="324" key="GridCell.Tab.1.left" timestamp="1581880837703">
-      <screen x="0" y="23" width="1920" height="975" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1582741303991">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1582741303991" />
     <state width="1878" height="324" key="GridCell.Tab.1.left/0.23.1920.975@0.23.1920.975" timestamp="1581880837703" />
-    <state width="1878" height="324" key="GridCell.Tab.1.right" timestamp="1581880837704">
-      <screen x="0" y="23" width="1920" height="975" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1582741303993">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1582741303993" />
     <state width="1878" height="324" key="GridCell.Tab.1.right/0.23.1920.975@0.23.1920.975" timestamp="1581880837704" />
     <state x="461" y="186" key="SettingsEditor" timestamp="1581886691512">
       <screen x="0" y="23" width="1920" height="975" />
     </state>
     <state x="461" y="186" key="SettingsEditor/0.23.1920.975@0.23.1920.975" timestamp="1581886691512" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1582140072394">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1582232770319">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1582140072394" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1582232770319" />
     <state x="490" y="295" key="com.intellij.ide.util.TipDialog" timestamp="1582131097213">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
